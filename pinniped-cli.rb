@@ -3,7 +3,7 @@ class PinnipedCli < Formula
     homepage "https://pinniped.dev/"
     url "https://github.com/zachaller/pinniped",
         tag:      "v0.7.0",
-        revision: "6bf8bfe9a823d410606726862d8ffd36c318ad39"
+        revision: "528459573ae1f4b3e489750f74a866666e4c9487"
     license "Apache-2.0"
     head "https://github.com/zachaller/pinniped", branch: "main"
     
